@@ -1,0 +1,9 @@
+
+Attaque brutale avec dico : c1 seule...
+==>key_length = 3
+File=./tests/crypted_crack/123_ringCxor.txt
+Créé et initialisé
+Enlevé
+
+Début de C1...
+Fin de C1
